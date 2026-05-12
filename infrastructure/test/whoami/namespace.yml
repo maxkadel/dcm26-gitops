@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: hello-whoami
+  name: whoami
   labels:
     # We need to be able to use node agents that are able to mount snapshots.
     # That will require root privileges, thus we need a completely unrestricted namespace for this.
