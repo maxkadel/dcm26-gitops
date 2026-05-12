@@ -5,6 +5,6 @@ kind: Kustomization
 # From here, we pull in all the applications we want to deploy.
 
 resources:
-  # Uncomment in Step X
   - washere
   - whoami
+  - dataverse

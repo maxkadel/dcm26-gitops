@@ -6,7 +6,7 @@ resources:
   - ../../base/whoami
 
 # Keep in sync with namespace.yml or else!!!
-namespace: whoami
+namespace: hello-whoami
 
 labels:
   - pairs:
